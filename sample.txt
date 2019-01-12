@@ -1,5 +1,6 @@
 1. What is your name?
-
+Ans: Monato
 2. How old are you?
-
+Ans: 28
 3. Favorite food
+Ans: Cat food
